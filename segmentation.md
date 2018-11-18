@@ -1,8 +1,19 @@
 # Segmentation
 
-We want to find segments of self-similar musical structure.
+We want to find segments of self-similar musical structure. Or, more broadly, we want to know the structure of the music.
 
-## Technical Approaches
+Our concern here is mostly for EDM or pop music as the two prominent genres for spin cycling.
+
+# Musical Background
+
+We should obviously know the inherent hierarchies in the target genres.
+
+[This tutorial](https://subaqueousmusic.com/dubstep-and-electronic-music-song-structure/) about EDM song structure is a good start.
+
+
+# Technical Approaches
+
+## State of the Art & Background Etc.
 
 A method by Brian McFee as used in [Librosa](http://librosa.github.io/librosa/) - see [Laplacian Segmentation](http://librosa.github.io/librosa/auto_examples/plot_segmentation.html#sphx-glr-auto-examples-plot-segmentation-py)
 uses [Spectral Clustering]() - see [McFee's paper here](/docs/ismir2014_spectral_segmentation.pdf)
