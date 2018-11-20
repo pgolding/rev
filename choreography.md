@@ -29,3 +29,24 @@ Here we need a method for [segmentation](segmentation.md)
 
 ## Move Mapping
 
+### What are "The Moves?"
+
+[This blog](https://indoorcyclingteachingideas.com/blogs/instructors/the-instructors-guide-to-choreographing-your-indoor-cycling-classes) provides a nice intro.
+
+They mention the following choreographed moves:
+
+- Seated Climb
+- Standing Climb
+- Seated Flat
+- Standing Flat
+- Jumps
+- Power Climbs (Seated and Standing)
+
+[Some good structure guides](http://www.fitnessnetwork.com.au/resources-library/indoor-cycling-choreography-movement-over-music) on this website.
+
+![](http://www.fitnessnetwork.com.au/resource-library/cyclingmusic2.png)
+
+#### Move Rules
+
+Songs are divided into units
+Each move will have a rule - e.g. tempo and length.
