@@ -50,3 +50,5 @@ They mention the following choreographed moves:
 
 Songs are divided into units
 Each move will have a rule - e.g. tempo and length.
+
+[Move mapping](moves.md)
