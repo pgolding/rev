@@ -6,7 +6,7 @@ Our concern here is mostly for EDM or pop music as the two prominent genres for 
 
 # Musical Background
 
-We should obviously know the inherent hierarchies in the target genres.
+We should obviously know the inherent hierarchies in the target genres, such as EDM.
 
 [This tutorial](https://subaqueousmusic.com/dubstep-and-electronic-music-song-structure/) about EDM (and pop) song structure is a good start.
 The author also provides a [composition toolkit for Ableton](https://subaqueousmusic.com/quick-and-easy-composition-tricks/) that has a variety of song structure breakdowns.
