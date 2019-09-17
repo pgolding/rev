@@ -3,7 +3,7 @@
 An experiment in building a multi-user spin-cycle choreography system.
 
 **NOTE:** This was a hobby project that I started as an avid spin-cycle fan. I didn't have time to get a working prototype, but I am sharing this
-repo in case my initial thoughts/research are of use to others inclined towards solving the "AI Spin Instructor problem."
+repo in case my initial thoughts/research (e.g. [docs](/docs) are of use to others inclined towards solving the "AI Spin Instructor problem."
 
 My motivation was to create an app that would allow me to "join" a virtual spin class wherein the music was auto-curated (mostly from EDM recommendations) or self-curated.
 Using AI, the goal was to create the instructor voice-over (along with motivational exhortations) from a pre-recorded voice-over library. My previous work in
@@ -14,6 +14,8 @@ Put briefly, I wanted to create an alternative to the ridiculously over-priced a
 I wanted to have the ability to choose "better" music (with heavy EDM influence) and, eventually, create any visuals I wanted to motivate the ride.
 For me, just watching an instructor in a remote studio lacks any kind of imagination. It is an example of "digitized" experience versus a native "digital" experience -- a
 mistake made so often that I have become bored of explaining it. (If you search wide enough, you might find me talking/presenting about this.)
+
+Whilst exploring this project, I outlined the elements needed (see below) and concentrated upon the technical challenge of [segmenting](segmentation.md) the music.
 
 ## Why Spin? Which Spin (Flavor)?
 
