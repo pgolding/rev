@@ -62,7 +62,7 @@ Joining rides with others need not be in "real time."
 ### Choreography
 
 - A routine should be constructed from standard "spin moves" (e.g. sprint, rest, hill-climb, standing-sprint etc.)
-- Moves should be matched to the tempo/energy
+- Moves should be matched to appropriate tempo/energy segments (see [Segmentation](segmentation.md))
 - Moves should be phased to the appropriate musical phases per track including transitional phases
 
 ### Script Generation
